@@ -12,5 +12,8 @@
 - I learnt how to use Git commands like fetch, pull, merge, and rebase to manage and update branches effectively.
 - I learnt how to create and review pull requests, ensuring code quality and collaboration.
 
-## Favorite Artist
+### Favorite Artist
+
+- Metrooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 - JID
+
